@@ -4,7 +4,7 @@
 # author: Eric Davisson @theDavisson <hi@ericdavisson.com>
 # license: MIT
 
-repo="mudpi/mudpi-core"
+repo="Awesomeloper/mudpi-core"
 repo_installer="Awesomeloper/installer"
 repo_assistant="Awesomeloper/assistant"
 repo_ui="mudpi/ui"
